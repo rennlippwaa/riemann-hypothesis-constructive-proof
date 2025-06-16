@@ -1,0 +1,1 @@
+This repository contains a constructive and AI-assisted proof of the Riemann Hypothesis.
